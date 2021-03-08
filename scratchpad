@@ -1,0 +1,23 @@
+w only org
+org_names_raw_v1['len_comp'].value_counts()
+0    46
+1    41
+2    23
+3     3
+Name: len_comp, dtype: int64
+
+
+w - org or person
+
+0    44
+1    42
+2    24
+3     3
+Name: len_comp, dtype: int64
+
+w_tokenise in company search
+1    44
+2    37
+0    27
+3     4
+4     1
